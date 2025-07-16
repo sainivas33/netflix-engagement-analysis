@@ -33,4 +33,4 @@ This project explores user viewing behavior on Netflix using Excel-based dashboa
 ## 📌 Author
 
 **Sainivas**  
-[Portfolio Website](#) | [LinkedIn](#) | [Email](#)
+[Portfolio Website](#) | [https://www.linkedin.com/in/sai-nivas-27021332a/](#) | [sainivas33@gmail.com](#)
